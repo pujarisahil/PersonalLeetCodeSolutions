@@ -73,6 +73,7 @@
       <module fileurl="file://$PROJECT_DIR$/286. Walls and Gates/286. Walls and Gates.iml" filepath="$PROJECT_DIR$/286. Walls and Gates/286. Walls and Gates.iml" />
       <module fileurl="file://$PROJECT_DIR$/290. Word Pattern/290. Word Pattern.iml" filepath="$PROJECT_DIR$/290. Word Pattern/290. Word Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/297. Serialize and Deserialize Binary Tree.iml" filepath="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/297. Serialize and Deserialize Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/299. Bulls and Cows/299. Bulls and Cows.iml" filepath="$PROJECT_DIR$/299. Bulls and Cows/299. Bulls and Cows.iml" />
       <module fileurl="file://$PROJECT_DIR$/3. Longest Substring Without Repeating Characters/3. Longest Substring Without Repeating Characters.iml" filepath="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters/3. Longest Substring Without Repeating Characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/311. Sparse Matrix Multiplication/311. Sparse Matrix Multiplication.iml" filepath="$PROJECT_DIR$/311. Sparse Matrix Multiplication/311. Sparse Matrix Multiplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/314. Binary Tree Vertical Order Traversal/314. Binary Tree Vertical Order Traversal.iml" filepath="$PROJECT_DIR$/314. Binary Tree Vertical Order Traversal/314. Binary Tree Vertical Order Traversal.iml" />
@@ -91,6 +92,7 @@
       <module fileurl="file://$PROJECT_DIR$/398. Random Pick Index/398. Random Pick Index.iml" filepath="$PROJECT_DIR$/398. Random Pick Index/398. Random Pick Index.iml" />
       <module fileurl="file://$PROJECT_DIR$/4. Median of Two Sorted Arrays/4. Median of Two Sorted Arrays.iml" filepath="$PROJECT_DIR$/4. Median of Two Sorted Arrays/4. Median of Two Sorted Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/404. Sum of Left Leaves/404. Sum of Left Leaves.iml" filepath="$PROJECT_DIR$/404. Sum of Left Leaves/404. Sum of Left Leaves.iml" />
+      <module fileurl="file://$PROJECT_DIR$/415. Add Strings/415. Add Strings.iml" filepath="$PROJECT_DIR$/415. Add Strings/415. Add Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/419. Battleships in a Board/419. Battleships in a Board.iml" filepath="$PROJECT_DIR$/419. Battleships in a Board/419. Battleships in a Board.iml" />
       <module fileurl="file://$PROJECT_DIR$/43. Group Anagrams/43. Group Anagrams.iml" filepath="$PROJECT_DIR$/43. Group Anagrams/43. Group Anagrams.iml" />
       <module fileurl="file://$PROJECT_DIR$/43. Multiply Strings/43. Multiply Strings.iml" filepath="$PROJECT_DIR$/43. Multiply Strings/43. Multiply Strings.iml" />
@@ -100,8 +102,10 @@
       <module fileurl="file://$PROJECT_DIR$/48. Rotate Image/48. Rotate Image.iml" filepath="$PROJECT_DIR$/48. Rotate Image/48. Rotate Image.iml" />
       <module fileurl="file://$PROJECT_DIR$/484. Find Permutation/484. Find Permutation.iml" filepath="$PROJECT_DIR$/484. Find Permutation/484. Find Permutation.iml" />
       <module fileurl="file://$PROJECT_DIR$/485. Max Consecutive Ones/485. Max Consecutive Ones.iml" filepath="$PROJECT_DIR$/485. Max Consecutive Ones/485. Max Consecutive Ones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/498. Diagonal Traverse/498. Diagonal Traverse.iml" filepath="$PROJECT_DIR$/498. Diagonal Traverse/498. Diagonal Traverse.iml" />
       <module fileurl="file://$PROJECT_DIR$/5. Longest Palindromic Substring/5. Longest Palindromic Substring.iml" filepath="$PROJECT_DIR$/5. Longest Palindromic Substring/5. Longest Palindromic Substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/50. Pow(x, n)/50. Pow(x, n).iml" filepath="$PROJECT_DIR$/50. Pow(x, n)/50. Pow(x, n).iml" />
+      <module fileurl="file://$PROJECT_DIR$/501. Find Mode in Binary Search Tree/501. Find Mode in Binary Search Tree.iml" filepath="$PROJECT_DIR$/501. Find Mode in Binary Search Tree/501. Find Mode in Binary Search Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/504. Base 7/504. Base 7.iml" filepath="$PROJECT_DIR$/504. Base 7/504. Base 7.iml" />
       <module fileurl="file://$PROJECT_DIR$/513. Find Bottom Left Tree Value/513. Find Bottom Left Tree Value.iml" filepath="$PROJECT_DIR$/513. Find Bottom Left Tree Value/513. Find Bottom Left Tree Value.iml" />
       <module fileurl="file://$PROJECT_DIR$/54. Spiral Matrix/54. Spiral Matrix.iml" filepath="$PROJECT_DIR$/54. Spiral Matrix/54. Spiral Matrix.iml" />
@@ -118,6 +122,7 @@
       <module fileurl="file://$PROJECT_DIR$/79. Word Search/79. Word Search.iml" filepath="$PROJECT_DIR$/79. Word Search/79. Word Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/8. String to Integer (atoi)/8. String to Integer (atoi).iml" filepath="$PROJECT_DIR$/8. String to Integer (atoi)/8. String to Integer (atoi).iml" />
       <module fileurl="file://$PROJECT_DIR$/80. Remove Duplicates from Sorted Array II/80. Remove Duplicates from Sorted Array II.iml" filepath="$PROJECT_DIR$/80. Remove Duplicates from Sorted Array II/80. Remove Duplicates from Sorted Array II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/82. Remove Duplicates from Sorted List II/82. Remove Duplicates from Sorted List II.iml" filepath="$PROJECT_DIR$/82. Remove Duplicates from Sorted List II/82. Remove Duplicates from Sorted List II.iml" />
       <module fileurl="file://$PROJECT_DIR$/9. Palindrome Number/9. Palindrome Number.iml" filepath="$PROJECT_DIR$/9. Palindrome Number/9. Palindrome Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/90. Subsets II/90. Subsets II.iml" filepath="$PROJECT_DIR$/90. Subsets II/90. Subsets II.iml" />
       <module fileurl="file://$PROJECT_DIR$/91. Decode Ways/91. Decode Ways.iml" filepath="$PROJECT_DIR$/91. Decode Ways/91. Decode Ways.iml" />
