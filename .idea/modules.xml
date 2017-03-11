@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/108. Convert Sorted Array to Binary Search Tree/108. Convert Sorted Array to Binary Search Tree.iml" filepath="$PROJECT_DIR$/108. Convert Sorted Array to Binary Search Tree/108. Convert Sorted Array to Binary Search Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree/109. Convert Sorted List to Binary Search Tree.iml" filepath="$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree/109. Convert Sorted List to Binary Search Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/11. Container With Most Water/11. Container With Most Water.iml" filepath="$PROJECT_DIR$/11. Container With Most Water/11. Container With Most Water.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12. Integer to Roman/12. Integer to Roman.iml" filepath="$PROJECT_DIR$/12. Integer to Roman/12. Integer to Roman.iml" />
       <module fileurl="file://$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/121. Best Time to Buy and Sell Stock.iml" filepath="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/121. Best Time to Buy and Sell Stock.iml" />
       <module fileurl="file://$PROJECT_DIR$/125. Valid Palindrome/125. Valid Palindrome.iml" filepath="$PROJECT_DIR$/125. Valid Palindrome/125. Valid Palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/127. Word Ladder/127. Word Ladder.iml" filepath="$PROJECT_DIR$/127. Word Ladder/127. Word Ladder.iml" />
@@ -86,9 +87,12 @@
       <module fileurl="file://$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/297. Serialize and Deserialize Binary Tree.iml" filepath="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/297. Serialize and Deserialize Binary Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/299. Bulls and Cows/299. Bulls and Cows.iml" filepath="$PROJECT_DIR$/299. Bulls and Cows/299. Bulls and Cows.iml" />
       <module fileurl="file://$PROJECT_DIR$/3. Longest Substring Without Repeating Characters/3. Longest Substring Without Repeating Characters.iml" filepath="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters/3. Longest Substring Without Repeating Characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/300. Longest Increasing Subsequence/300. Longest Increasing Subsequence.iml" filepath="$PROJECT_DIR$/300. Longest Increasing Subsequence/300. Longest Increasing Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/309. Best Time to Buy and Sell Stock with Cooldown/309. Best Time to Buy and Sell Stock with Cooldown.iml" filepath="$PROJECT_DIR$/309. Best Time to Buy and Sell Stock with Cooldown/309. Best Time to Buy and Sell Stock with Cooldown.iml" />
       <module fileurl="file://$PROJECT_DIR$/311. Sparse Matrix Multiplication/311. Sparse Matrix Multiplication.iml" filepath="$PROJECT_DIR$/311. Sparse Matrix Multiplication/311. Sparse Matrix Multiplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/312. Burst Balloons/312. Burst Balloons.iml" filepath="$PROJECT_DIR$/312. Burst Balloons/312. Burst Balloons.iml" />
       <module fileurl="file://$PROJECT_DIR$/314. Binary Tree Vertical Order Traversal/314. Binary Tree Vertical Order Traversal.iml" filepath="$PROJECT_DIR$/314. Binary Tree Vertical Order Traversal/314. Binary Tree Vertical Order Traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32. Longest Valid Parentheses/32. Longest Valid Parentheses.iml" filepath="$PROJECT_DIR$/32. Longest Valid Parentheses/32. Longest Valid Parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/322. Coin Change/322. Coin Change.iml" filepath="$PROJECT_DIR$/322. Coin Change/322. Coin Change.iml" />
       <module fileurl="file://$PROJECT_DIR$/325. Maximum Size Subarray Sum Equals k/325. Maximum Size Subarray Sum Equals k.iml" filepath="$PROJECT_DIR$/325. Maximum Size Subarray Sum Equals k/325. Maximum Size Subarray Sum Equals k.iml" />
       <module fileurl="file://$PROJECT_DIR$/328. Odd Even Linked List/328. Odd Even Linked List.iml" filepath="$PROJECT_DIR$/328. Odd Even Linked List/328. Odd Even Linked List.iml" />
@@ -96,6 +100,7 @@
       <module fileurl="file://$PROJECT_DIR$/336. Palindrome Pairs/336. Palindrome Pairs.iml" filepath="$PROJECT_DIR$/336. Palindrome Pairs/336. Palindrome Pairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/341. Flatten Nested List Iterator/341. Flatten Nested List Iterator.iml" filepath="$PROJECT_DIR$/341. Flatten Nested List Iterator/341. Flatten Nested List Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/348. Design Tic-Tac-Toe/348. Design Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/348. Design Tic-Tac-Toe/348. Design Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/354. Russian Doll Envelopes/354. Russian Doll Envelopes.iml" filepath="$PROJECT_DIR$/354. Russian Doll Envelopes/354. Russian Doll Envelopes.iml" />
       <module fileurl="file://$PROJECT_DIR$/362. Design Hit Counter/362. Design Hit Counter.iml" filepath="$PROJECT_DIR$/362. Design Hit Counter/362. Design Hit Counter.iml" />
       <module fileurl="file://$PROJECT_DIR$/365. Water and Jug Problem/365. Water and Jug Problem.iml" filepath="$PROJECT_DIR$/365. Water and Jug Problem/365. Water and Jug Problem.iml" />
       <module fileurl="file://$PROJECT_DIR$/377. Combination Sum IV/377. Combination Sum IV.iml" filepath="$PROJECT_DIR$/377. Combination Sum IV/377. Combination Sum IV.iml" />
@@ -124,6 +129,7 @@
       <module fileurl="file://$PROJECT_DIR$/504. Base 7/504. Base 7.iml" filepath="$PROJECT_DIR$/504. Base 7/504. Base 7.iml" />
       <module fileurl="file://$PROJECT_DIR$/513. Find Bottom Left Tree Value/513. Find Bottom Left Tree Value.iml" filepath="$PROJECT_DIR$/513. Find Bottom Left Tree Value/513. Find Bottom Left Tree Value.iml" />
       <module fileurl="file://$PROJECT_DIR$/516. Longest Palindromic Subsequence/516. Longest Palindromic Subsequence.iml" filepath="$PROJECT_DIR$/516. Longest Palindromic Subsequence/516. Longest Palindromic Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/518. Coin Change 2/518. Coin Change 2.iml" filepath="$PROJECT_DIR$/518. Coin Change 2/518. Coin Change 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/54. Spiral Matrix/54. Spiral Matrix.iml" filepath="$PROJECT_DIR$/54. Spiral Matrix/54. Spiral Matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/56. Merge Intervals/56. Merge Intervals.iml" filepath="$PROJECT_DIR$/56. Merge Intervals/56. Merge Intervals.iml" />
       <module fileurl="file://$PROJECT_DIR$/61. Rotate List/61. Rotate List.iml" filepath="$PROJECT_DIR$/61. Rotate List/61. Rotate List.iml" />
